@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Oscar\\Desktop\\Project\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "c:\\Users\\Oscar\\Desktop\\code\\NETCoreWithVSCode\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "C:\\Users\\Oscar\\Desktop\\Project\\HelloWorld\\HelloWorld.csproj",
+      "projectPath": "c:\\Users\\Oscar\\Desktop\\code\\NETCoreWithVSCode\\HelloWorld.csproj",
       "packagesPath": "C:\\Users\\Oscar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Oscar\\Desktop\\Project\\HelloWorld\\obj\\",
+      "outputPath": "c:\\Users\\Oscar\\Desktop\\code\\NETCoreWithVSCode\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

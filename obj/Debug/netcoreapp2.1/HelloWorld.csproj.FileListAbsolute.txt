@@ -9,3 +9,14 @@ C:\Users\Oscar\Desktop\Project\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.Ass
 C:\Users\Oscar\Desktop\Project\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.AssemblyInfo.cs
 C:\Users\Oscar\Desktop\Project\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.dll
 C:\Users\Oscar\Desktop\Project\HelloWorld\obj\Debug\netcoreapp2.1\HelloWorld.pdb
+C:\Users\Oscar\Desktop\code\NETCoreWithVSCode\bin\Debug\netcoreapp2.1\HelloWorld.deps.json
+C:\Users\Oscar\Desktop\code\NETCoreWithVSCode\bin\Debug\netcoreapp2.1\HelloWorld.runtimeconfig.json
+C:\Users\Oscar\Desktop\code\NETCoreWithVSCode\bin\Debug\netcoreapp2.1\HelloWorld.runtimeconfig.dev.json
+C:\Users\Oscar\Desktop\code\NETCoreWithVSCode\bin\Debug\netcoreapp2.1\HelloWorld.dll
+C:\Users\Oscar\Desktop\code\NETCoreWithVSCode\bin\Debug\netcoreapp2.1\HelloWorld.pdb
+C:\Users\Oscar\Desktop\code\NETCoreWithVSCode\obj\Debug\netcoreapp2.1\HelloWorld.csprojAssemblyReference.cache
+C:\Users\Oscar\Desktop\code\NETCoreWithVSCode\obj\Debug\netcoreapp2.1\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\Desktop\code\NETCoreWithVSCode\obj\Debug\netcoreapp2.1\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Oscar\Desktop\code\NETCoreWithVSCode\obj\Debug\netcoreapp2.1\HelloWorld.AssemblyInfo.cs
+C:\Users\Oscar\Desktop\code\NETCoreWithVSCode\obj\Debug\netcoreapp2.1\HelloWorld.dll
+C:\Users\Oscar\Desktop\code\NETCoreWithVSCode\obj\Debug\netcoreapp2.1\HelloWorld.pdb
